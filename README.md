@@ -20,19 +20,19 @@ A ready-to-use classifier is used
 * clone directory containing all files
 * ensure that folder 'uploaded images' is present
 
-## start working
+## how to classify images
 
-### prepare your image
+### input: prepare your image
 * choose an image of a pet you find in the internet
 * **ensure that the image file is a jpeg-format or has been converted to jpeg-format**
 * **renaming the file is not sufficient, you need to convert it if it is not jpeg-format**
 * put the jpeg-file in folder 'uploaded images'
 * **rename the image follow this naming convention: petname_imagenumber.jpg** (image number can be chosen by you)
 
-### go ahead
+### run script/do classify
 * run check_images.py in Python shell by typing in command _python check_images.py_
 
-## output
+### output: evaluate performance and statistics
 * classification performance (time needed for classification, each architecture can be different)
 * classification statistics (Number of images classified, number of dog images, number of not-dog-images, number of matches, number of correct dog matches, number of correct dog breed matches, percentage of matched images, percentages of correctly as dogs classified images, number of correctly classified dog breed images, number of not-dog-images correctly classified, percentage of not-dogs correctly classified)
 * for further analysis/follow up: showing names of all misclassified images that were classified as dogs but are not dogs
