@@ -1,5 +1,5 @@
 # udacity-dog-breed-classifier
-Python application to identify dog breeds by uploading images using three pretrained neural networks
+Python application to identify dog breeds by uploading images using three pretrained neural networks (Nanodegree Project 1: Udacity AI Programming with Python)
 
 ## purpose
 Building a Python application for image classification within Udacity nanodegree program 'AI Programmming with Python' 
